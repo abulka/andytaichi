@@ -1,0 +1,40 @@
+<html>
+
+<head>
+<title>Thank you for your order.</title>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 4.0">
+<meta NAME="FORMATTER" CONTENT="Microsoft FrontPage 2.0">
+</head>
+
+<body LINK="#0000ff" VLINK="#800080">
+
+<h1 align="center"><CF_MailForm TO="order@atug.com" FROM="order@atug.com" SUBJECT="Online Order">Thank you for your order</h1>
+
+<blockquote>
+  <blockquote>
+    <font FACE="Arial"><p>You will receive download instructions overnight in your
+    email.&nbsp; </p>
+    </font><font FACE="Arial" SIZE="2"><p>Your credit card will be billed by &quot;WindowWare
+    Multimedia&quot;.</font> </p>
+  </blockquote>
+</blockquote>
+
+<p ALIGN="CENTER"><a HREF="http://www.cmctaichiaustralia.com/">Return to
+cmctaichiaustralia.com home page</a></p>
+
+<p ALIGN="CENTER"><img src="taichitrigram1open3top.gif" width="323" height="44"
+alt="taichitrigram1open3top.gif (1116 bytes)"></p>
+
+<p ALIGN="CENTER"><a href="mailto:sales@atug.com">sales@cmctaichiaustralia.com</a>
+</p>
+<font SIZE="2">
+
+<p ALIGN="CENTER">&nbsp;</p>
+</font>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</body>
+</html>
