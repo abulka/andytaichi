@@ -9,7 +9,7 @@
 
 <body LINK="#0000ff" VLINK="#800080">
 
-<h1 align="center"><CF_MailForm TO="order@atug.com" FROM="order@atug.com" SUBJECT="Online Order">Thank you for your order</h1>
+<h1 align="center"><CF_MailForm TO="abulka@gmail.com" FROM="abulka@gmail.com" SUBJECT="Online Order">Thank you for your order</h1>
 
 <blockquote>
   <blockquote>
@@ -26,7 +26,7 @@ cmctaichiaustralia.com home page</a></p>
 <p ALIGN="CENTER"><img src="taichitrigram1open3top.gif" width="323" height="44"
 alt="taichitrigram1open3top.gif (1116 bytes)"></p>
 
-<p ALIGN="CENTER"><a href="mailto:sales@atug.com">sales@cmctaichiaustralia.com</a>
+<p ALIGN="CENTER"><a href="mailto:abulka@gmail.com">abulka@gmail.com</a>
 </p>
 <font SIZE="2">
 
